@@ -1,0 +1,11 @@
+# Güvenlik
+.env
+
+# Python ve Sanal Ortam
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Veri setleri (GitHub'a 50-100 MB'lık dosyalar atmak sistemi yorar, isteğe bağlı)
+
